@@ -1,0 +1,4 @@
+name: hello_cli
+description: A sample command-line application
+#dev_dependencies:
+#  unittest: any

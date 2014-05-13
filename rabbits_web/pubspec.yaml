@@ -1,0 +1,5 @@
+name: rabbits_web
+author: Brian Tomlinson
+description: Raising rabbits the web way.
+dependencies:
+  browser: any

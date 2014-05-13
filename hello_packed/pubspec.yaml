@@ -1,0 +1,4 @@
+name: hello_packed
+description: A sample chrome packaged application
+dependencies:
+  browser: any
